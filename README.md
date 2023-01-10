@@ -6,7 +6,7 @@ Based on official "Tricarbon" watchface for Amazfit Band 7.
 
 ## Tools used
 
-To convert the images (convert to ZeppOS tga): use the [ZMake](https://github.com/melianmiko/zmake) tool.
+To convert the images (convert to ZeppOS tga): use the [ZMake](https://github.com/melianmiko/zmake) tool (use the format TGA-RLP).
 
 To install this watchface (sync with band), use [AmazFaces](https://play.google.com/store/apps/details?id=com.amazfitwatchfaces.st) and select `.bin` file.
 
