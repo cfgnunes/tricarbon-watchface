@@ -4,6 +4,8 @@ Based on official "Bari (Tricarbon)" watchface for Amazfit Band 7.
 
 ## Tools used
 
+To convert the images (convert to zepp OS tga): use the [ZMake](https://github.com/melianmiko/zmake) tool.
+
 To install this watchface (sync with band), use [AmazFaces](https://play.google.com/store/apps/details?id=com.amazfitwatchfaces.st) and select `.bin` file.
 
 ## Contributing
