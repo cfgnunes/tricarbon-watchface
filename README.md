@@ -2,7 +2,7 @@
 
 ![screenshot](screenshot.png)
 
-Based on official "Bari (Tricarbon)" watchface for Amazfit Band 7.
+Based on official "Tricarbon" watchface for Amazfit Band 7.
 
 ## Tools used
 
