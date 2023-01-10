@@ -1,6 +1,10 @@
-# Bari (Tricarbon) watchface
+# "Bari (Tricarbon)" watchface fot Amazfit Band 7
 
 Based on official "Bari (Tricarbon)" watchface for Amazfit Band 7.
+
+## Tools used
+
+To install this watchface (sync with band), use [AmazFaces](https://play.google.com/store/apps/details?id=com.amazfitwatchfaces.st) and select `.bin` file.
 
 ## Contributing
 
