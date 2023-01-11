@@ -1,4 +1,4 @@
-# "Tricarbon" watchface fot Amazfit Band 7
+# "Tricarbon" watchface for Amazfit Band 7
 
 ![screenshot](screenshot.png)
 
